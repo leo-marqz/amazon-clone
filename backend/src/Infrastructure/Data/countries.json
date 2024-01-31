@@ -1,0 +1,977 @@
+[
+    {
+        "Name": "Afghanistan",
+        "ISO2": "AF",
+        "ISO3": "AFG"
+    },
+    {
+        "Name": "Albania",
+        "ISO2": "AL",
+        "ISO3": "ALB"
+    },
+    {
+        "Name": "Algeria",
+        "ISO2": "DZ",
+        "ISO3": "DZA"
+    },
+    {
+        "Name": "Andorra",
+        "ISO2": "AD",
+        "ISO3": "AND"
+    },
+    {
+        "Name": "Angola",
+        "ISO2": "AO",
+        "ISO3": "AGO"
+    },
+    {
+        "Name": "Antarctica",
+        "ISO2": "AQ",
+        "ISO3": "ATA"
+    },
+    {
+        "Name": "Antigua and Barbuda",
+        "ISO2": "AG",
+        "ISO3": "ATG"
+    },
+    {
+        "Name": "Argentina",
+        "ISO2": "AR",
+        "ISO3": "ARG"
+    },
+    {
+        "Name": "Armenia",
+        "ISO2": "AM",
+        "ISO3": "ARM"
+    },
+    {
+        "Name": "Australia",
+        "ISO2": "AU",
+        "ISO3": "AUS"
+    },
+    {
+        "Name": "Austria",
+        "ISO2": "AT",
+        "ISO3": "AUT"
+    },
+    {
+        "Name": "Azerbaijan",
+        "ISO2": "AZ",
+        "ISO3": "AZE"
+    },
+    {
+        "Name": "Bahamas",
+        "ISO2": "BS",
+        "ISO3": "BHS"
+    },
+    {
+        "Name": "Bahrain",
+        "ISO2": "BH",
+        "ISO3": "BHR"
+    },
+    {
+        "Name": "Bangladesh",
+        "ISO2": "BD",
+        "ISO3": "BGD"
+    },
+    {
+        "Name": "Barbados",
+        "ISO2": "BB",
+        "ISO3": "BRB"
+    },
+    {
+        "Name": "Belarus",
+        "ISO2": "BY",
+        "ISO3": "BLR"
+    },
+    {
+        "Name": "Belgium",
+        "ISO2": "BE",
+        "ISO3": "BEL"
+    },
+    {
+        "Name": "Belize",
+        "ISO2": "BZ",
+        "ISO3": "BLZ"
+    },
+    {
+        "Name": "Benin",
+        "ISO2": "BJ",
+        "ISO3": "BEN"
+    },
+    {
+        "Name": "Bhutan",
+        "ISO2": "BT",
+        "ISO3": "BTN"
+    },
+    {
+        "Name": "Bolivia",
+        "ISO2": "BO",
+        "ISO3": "BOL"
+    },
+    {
+        "Name": "Bosnia and Herzegovina",
+        "ISO2": "BA",
+        "ISO3": "BIH"
+    },
+    {
+        "Name": "Botswana",
+        "ISO2": "BW",
+        "ISO3": "BWA"
+    },
+    {
+        "Name": "Brazil",
+        "ISO2": "BR",
+        "ISO3": "BRA"
+    },
+    {
+        "Name": "Brunei",
+        "ISO2": "BN",
+        "ISO3": "BRN"
+    },
+    {
+        "Name": "Bulgaria",
+        "ISO2": "BG",
+        "ISO3": "BGR"
+    },
+    {
+        "Name": "Burkina Faso",
+        "ISO2": "BF",
+        "ISO3": "BFA"
+    },
+    {
+        "Name": "Burma"
+    },
+    {
+        "Name": "Burundi",
+        "ISO2": "BI",
+        "ISO3": "BDI"
+    },
+    {
+        "Name": "Cabo Verde"
+    },
+    {
+        "Name": "Cambodia",
+        "ISO2": "KH",
+        "ISO3": "KHM"
+    },
+    {
+        "Name": "Cameroon",
+        "ISO2": "CM",
+        "ISO3": "CMR"
+    },
+    {
+        "Name": "Canada",
+        "ISO2": "CA",
+        "ISO3": "CAN"
+    },
+    {
+        "Name": "Central African Republic",
+        "ISO2": "CF",
+        "ISO3": "CAF"
+    },
+    {
+        "Name": "Chad",
+        "ISO2": "TD",
+        "ISO3": "TCD"
+    },
+    {
+        "Name": "Chile",
+        "ISO2": "CL",
+        "ISO3": "CHL"
+    },
+    {
+        "Name": "China",
+        "ISO2": "CN",
+        "ISO3": "CHN"
+    },
+    {
+        "Name": "Colombia",
+        "ISO2": "CO",
+        "ISO3": "COL"
+    },
+    {
+        "Name": "Comoros",
+        "ISO2": "KM",
+        "ISO3": "COM"
+    },
+    {
+        "Name": "Congo (Brazzaville)"
+    },
+    {
+        "Name": "Congo (Kinshasa)"
+    },
+    {
+        "Name": "Costa Rica",
+        "ISO2": "CR",
+        "ISO3": "CRI"
+    },
+    {
+        "Name": "Cote d'Ivoire"
+    },
+    {
+        "Name": "Croatia",
+        "ISO2": "HR",
+        "ISO3": "HRV"
+    },
+    {
+        "Name": "Cuba",
+        "ISO2": "CU",
+        "ISO3": "CUB"
+    },
+    {
+        "Name": "Cyprus",
+        "ISO2": "CY",
+        "ISO3": "CYP"
+    },
+    {
+        "Name": "Czechia",
+        "ISO2": "CZ",
+        "ISO3": "CZE"
+    },
+    {
+        "Name": "Denmark",
+        "ISO2": "DK",
+        "ISO3": "DNK"
+    },
+    {
+        "Name": "Diamond Princess"
+    },
+    {
+        "Name": "Djibouti",
+        "ISO2": "DJ",
+        "ISO3": "DJI"
+    },
+    {
+        "Name": "Dominica",
+        "ISO2": "DM",
+        "ISO3": "DMA"
+    },
+    {
+        "Name": "Dominican Republic",
+        "ISO2": "DO",
+        "ISO3": "DOM"
+    },
+    {
+        "Name": "Ecuador",
+        "ISO2": "EC",
+        "ISO3": "ECU"
+    },
+    {
+        "Name": "Egypt",
+        "ISO2": "EG",
+        "ISO3": "EGY"
+    },
+    {
+        "Name": "El Salvador",
+        "ISO2": "SV",
+        "ISO3": "SLV"
+    },
+    {
+        "Name": "Equatorial Guinea",
+        "ISO2": "GQ",
+        "ISO3": "GNQ"
+    },
+    {
+        "Name": "Eritrea",
+        "ISO2": "ER",
+        "ISO3": "ERI"
+    },
+    {
+        "Name": "Estonia",
+        "ISO2": "EE",
+        "ISO3": "EST"
+    },
+    {
+        "Name": "Eswatini"
+    },
+    {
+        "Name": "Ethiopia",
+        "ISO2": "ET",
+        "ISO3": "ETH"
+    },
+    {
+        "Name": "Fiji",
+        "ISO2": "FJ",
+        "ISO3": "FJI"
+    },
+    {
+        "Name": "Finland",
+        "ISO2": "FI",
+        "ISO3": "FIN"
+    },
+    {
+        "Name": "France",
+        "ISO2": "FR",
+        "ISO3": "FRA"
+    },
+    {
+        "Name": "Gabon",
+        "ISO2": "GA",
+        "ISO3": "GAB"
+    },
+    {
+        "Name": "Gambia",
+        "ISO2": "GM",
+        "ISO3": "GMB"
+    },
+    {
+        "Name": "Georgia",
+        "ISO2": "GE",
+        "ISO3": "GEO"
+    },
+    {
+        "Name": "Germany",
+        "ISO2": "DE",
+        "ISO3": "DEU"
+    },
+    {
+        "Name": "Ghana",
+        "ISO2": "GH",
+        "ISO3": "GHA"
+    },
+    {
+        "Name": "Greece",
+        "ISO2": "GR",
+        "ISO3": "GRC"
+    },
+    {
+        "Name": "Grenada",
+        "ISO2": "GD",
+        "ISO3": "GRD"
+    },
+    {
+        "Name": "Guatemala",
+        "ISO2": "GT",
+        "ISO3": "GTM"
+    },
+    {
+        "Name": "Guinea",
+        "ISO2": "GN",
+        "ISO3": "GIN"
+    },
+    {
+        "Name": "Guinea-Bissau",
+        "ISO2": "GW",
+        "ISO3": "GNB"
+    },
+    {
+        "Name": "Guyana",
+        "ISO2": "GY",
+        "ISO3": "GUY"
+    },
+    {
+        "Name": "Haiti",
+        "ISO2": "HT",
+        "ISO3": "HTI"
+    },
+    {
+        "Name": "Holy See"
+    },
+    {
+        "Name": "Honduras",
+        "ISO2": "HN",
+        "ISO3": "HND"
+    },
+    {
+        "Name": "Hungary",
+        "ISO2": "HU",
+        "ISO3": "HUN"
+    },
+    {
+        "Name": "Iceland",
+        "ISO2": "IS",
+        "ISO3": "ISL"
+    },
+    {
+        "Name": "India",
+        "ISO2": "IN",
+        "ISO3": "IND"
+    },
+    {
+        "Name": "Indonesia",
+        "ISO2": "ID",
+        "ISO3": "IDN"
+    },
+    {
+        "Name": "Iran",
+        "ISO2": "IR",
+        "ISO3": "IRN"
+    },
+    {
+        "Name": "Iraq",
+        "ISO2": "IQ",
+        "ISO3": "IRQ"
+    },
+    {
+        "Name": "Ireland",
+        "ISO2": "IE",
+        "ISO3": "IRL"
+    },
+    {
+        "Name": "Israel",
+        "ISO2": "IL",
+        "ISO3": "ISR"
+    },
+    {
+        "Name": "Italy",
+        "ISO2": "IT",
+        "ISO3": "ITA"
+    },
+    {
+        "Name": "Jamaica",
+        "ISO2": "JM",
+        "ISO3": "JAM"
+    },
+    {
+        "Name": "Japan",
+        "ISO2": "JP",
+        "ISO3": "JPN"
+    },
+    {
+        "Name": "Jordan",
+        "ISO2": "JO",
+        "ISO3": "JOR"
+    },
+    {
+        "Name": "Kazakhstan",
+        "ISO2": "KZ",
+        "ISO3": "KAZ"
+    },
+    {
+        "Name": "Kenya",
+        "ISO2": "KE",
+        "ISO3": "KEN"
+    },
+    {
+        "Name": "Kiribati",
+        "ISO2": "KI",
+        "ISO3": "KIR"
+    },
+    {
+        "Name": "Korea, North"
+    },
+    {
+        "Name": "Korea, South",
+        "ISO2": "KR",
+        "ISO3": "KOR"
+    },
+    {
+        "Name": "Kosovo",
+        "ISO2": "XK",
+        "ISO3": "XKX"
+    },
+    {
+        "Name": "Kuwait",
+        "ISO2": "KW",
+        "ISO3": "KWT"
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "ISO2": "KG",
+        "ISO3": "KGZ"
+    },
+    {
+        "Name": "Laos",
+        "ISO2": "LA",
+        "ISO3": "LAO"
+    },
+    {
+        "Name": "Latvia",
+        "ISO2": "LV",
+        "ISO3": "LVA"
+    },
+    {
+        "Name": "Lebanon",
+        "ISO2": "LB",
+        "ISO3": "LBN"
+    },
+    {
+        "Name": "Lesotho",
+        "ISO2": "LS",
+        "ISO3": "LSO"
+    },
+    {
+        "Name": "Liberia",
+        "ISO2": "LR",
+        "ISO3": "LBR"
+    },
+    {
+        "Name": "Libya",
+        "ISO2": "LY",
+        "ISO3": "LBY"
+    },
+    {
+        "Name": "Liechtenstein",
+        "ISO2": "LI",
+        "ISO3": "LIE"
+    },
+    {
+        "Name": "Lithuania",
+        "ISO2": "LT",
+        "ISO3": "LTU"
+    },
+    {
+        "Name": "Luxembourg",
+        "ISO2": "LU",
+        "ISO3": "LUX"
+    },
+    {
+        "Name": "MS Zaandam"
+    },
+    {
+        "Name": "Madagascar",
+        "ISO2": "MG",
+        "ISO3": "MDG"
+    },
+    {
+        "Name": "Malawi",
+        "ISO2": "MW",
+        "ISO3": "MWI"
+    },
+    {
+        "Name": "Malaysia",
+        "ISO2": "MY",
+        "ISO3": "MYS"
+    },
+    {
+        "Name": "Maldives",
+        "ISO2": "MV",
+        "ISO3": "MDV"
+    },
+    {
+        "Name": "Mali",
+        "ISO2": "ML",
+        "ISO3": "MLI"
+    },
+    {
+        "Name": "Malta",
+        "ISO2": "MT",
+        "ISO3": "MLT"
+    },
+    {
+        "Name": "Marshall Islands",
+        "ISO2": "MH",
+        "ISO3": "MHL"
+    },
+    {
+        "Name": "Mauritania",
+        "ISO2": "MR",
+        "ISO3": "MRT"
+    },
+    {
+        "Name": "Mauritius",
+        "ISO2": "MU",
+        "ISO3": "MUS"
+    },
+    {
+        "Name": "Mexico",
+        "ISO2": "MX",
+        "ISO3": "MEX"
+    },
+    {
+        "Name": "Micronesia",
+        "ISO2": "FM",
+        "ISO3": "FSM"
+    },
+    {
+        "Name": "Moldova",
+        "ISO2": "MD",
+        "ISO3": "MDA"
+    },
+    {
+        "Name": "Monaco",
+        "ISO2": "MC",
+        "ISO3": "MCO"
+    },
+    {
+        "Name": "Mongolia",
+        "ISO2": "MN",
+        "ISO3": "MNG"
+    },
+    {
+        "Name": "Montenegro",
+        "ISO2": "ME",
+        "ISO3": "MNE"
+    },
+    {
+        "Name": "Morocco",
+        "ISO2": "MA",
+        "ISO3": "MAR"
+    },
+    {
+        "Name": "Mozambique",
+        "ISO2": "MZ",
+        "ISO3": "MOZ"
+    },
+    {
+        "Name": "Namibia",
+        "ISO2": "NA",
+        "ISO3": "NAM"
+    },
+    {
+        "Name": "Nauru",
+        "ISO2": "NR",
+        "ISO3": "NRU"
+    },
+    {
+        "Name": "Nepal",
+        "ISO2": "NP",
+        "ISO3": "NPL"
+    },
+    {
+        "Name": "Netherlands",
+        "ISO2": "NL",
+        "ISO3": "NLD"
+    },
+    {
+        "Name": "New Zealand",
+        "ISO2": "NZ",
+        "ISO3": "NZL"
+    },
+    {
+        "Name": "Nicaragua",
+        "ISO2": "NI",
+        "ISO3": "NIC"
+    },
+    {
+        "Name": "Niger",
+        "ISO2": "NE",
+        "ISO3": "NER"
+    },
+    {
+        "Name": "Nigeria",
+        "ISO2": "NG",
+        "ISO3": "NGA"
+    },
+    {
+        "Name": "North Macedonia"
+    },
+    {
+        "Name": "Norway",
+        "ISO2": "NO",
+        "ISO3": "NOR"
+    },
+    {
+        "Name": "Oman",
+        "ISO2": "OM",
+        "ISO3": "OMN"
+    },
+    {
+        "Name": "Pakistan",
+        "ISO2": "PK",
+        "ISO3": "PAK"
+    },
+    {
+        "Name": "Palau",
+        "ISO2": "PW",
+        "ISO3": "PLW"
+    },
+    {
+        "Name": "Panama",
+        "ISO2": "PA",
+        "ISO3": "PAN"
+    },
+    {
+        "Name": "Papua New Guinea",
+        "ISO2": "PG",
+        "ISO3": "PNG"
+    },
+    {
+        "Name": "Paraguay",
+        "ISO2": "PY",
+        "ISO3": "PRY"
+    },
+    {
+        "Name": "Peru",
+        "ISO2": "PE",
+        "ISO3": "PER"
+    },
+    {
+        "Name": "Philippines",
+        "ISO2": "PH",
+        "ISO3": "PHL"
+    },
+    {
+        "Name": "Poland",
+        "ISO2": "PL",
+        "ISO3": "POL"
+    },
+    {
+        "Name": "Portugal",
+        "ISO2": "PT",
+        "ISO3": "PRT"
+    },
+    {
+        "Name": "Qatar",
+        "ISO2": "QA",
+        "ISO3": "QAT"
+    },
+    {
+        "Name": "Romania",
+        "ISO2": "RO",
+        "ISO3": "ROU"
+    },
+    {
+        "Name": "Russia",
+        "ISO2": "RU",
+        "ISO3": "RUS"
+    },
+    {
+        "Name": "Rwanda",
+        "ISO2": "RW",
+        "ISO3": "RWA"
+    },
+    {
+        "Name": "Saint Kitts and Nevis",
+        "ISO2": "KN",
+        "ISO3": "KNA"
+    },
+    {
+        "Name": "Saint Lucia",
+        "ISO2": "LC",
+        "ISO3": "LCA"
+    },
+    {
+        "Name": "Saint Vincent and the Grenadines",
+        "ISO2": "VC",
+        "ISO3": "VCT"
+    },
+    {
+        "Name": "Samoa",
+        "ISO2": "WS",
+        "ISO3": "WSM"
+    },
+    {
+        "Name": "San Marino",
+        "ISO2": "SM",
+        "ISO3": "SMR"
+    },
+    {
+        "Name": "Sao Tome and Principe",
+        "ISO2": "ST",
+        "ISO3": "STP"
+    },
+    {
+        "Name": "Saudi Arabia",
+        "ISO2": "SA",
+        "ISO3": "SAU"
+    },
+    {
+        "Name": "Senegal",
+        "ISO2": "SN",
+        "ISO3": "SEN"
+    },
+    {
+        "Name": "Serbia",
+        "ISO2": "RS",
+        "ISO3": "SRB"
+    },
+    {
+        "Name": "Seychelles",
+        "ISO2": "SC",
+        "ISO3": "SYC"
+    },
+    {
+        "Name": "Sierra Leone",
+        "ISO2": "SL",
+        "ISO3": "SLE"
+    },
+    {
+        "Name": "Singapore",
+        "ISO2": "SG",
+        "ISO3": "SGP"
+    },
+    {
+        "Name": "Slovakia",
+        "ISO2": "SK",
+        "ISO3": "SVK"
+    },
+    {
+        "Name": "Slovenia",
+        "ISO2": "SI",
+        "ISO3": "SVN"
+    },
+    {
+        "Name": "Solomon Islands",
+        "ISO2": "SB",
+        "ISO3": "SLB"
+    },
+    {
+        "Name": "Somalia",
+        "ISO2": "SO",
+        "ISO3": "SOM"
+    },
+    {
+        "Name": "South Africa",
+        "ISO2": "ZA",
+        "ISO3": "ZAF"
+    },
+    {
+        "Name": "South Sudan",
+        "ISO2": "SS",
+        "ISO3": "SSD"
+    },
+    {
+        "Name": "Spain",
+        "ISO2": "ES",
+        "ISO3": "ESP"
+    },
+    {
+        "Name": "Sri Lanka",
+        "ISO2": "LK",
+        "ISO3": "LKA"
+    },
+    {
+        "Name": "Sudan",
+        "ISO2": "SD",
+        "ISO3": "SDN"
+    },
+    {
+        "Name": "Summer Olympics 2020"
+    },
+    {
+        "Name": "SuriName",
+        "ISO2": "SR",
+        "ISO3": "SUR"
+    },
+    {
+        "Name": "Sweden",
+        "ISO2": "SE",
+        "ISO3": "SWE"
+    },
+    {
+        "Name": "Switzerland",
+        "ISO2": "CH",
+        "ISO3": "CHE"
+    },
+    {
+        "Name": "Syria",
+        "ISO2": "SY",
+        "ISO3": "SYR"
+    },
+    {
+        "Name": "Taiwan*",
+        "ISO2": "TW",
+        "ISO3": "TWN"
+    },
+    {
+        "Name": "Tajikistan",
+        "ISO2": "TJ",
+        "ISO3": "TJK"
+    },
+    {
+        "Name": "Tanzania",
+        "ISO2": "TZ",
+        "ISO3": "TZA"
+    },
+    {
+        "Name": "Thailand",
+        "ISO2": "TH",
+        "ISO3": "THA"
+    },
+    {
+        "Name": "Timor-Leste"
+    },
+    {
+        "Name": "Togo",
+        "ISO2": "TG",
+        "ISO3": "TGO"
+    },
+    {
+        "Name": "Tonga",
+        "ISO2": "TO",
+        "ISO3": "TON"
+    },
+    {
+        "Name": "Trinidad and Tobago",
+        "ISO2": "TT",
+        "ISO3": "TTO"
+    },
+    {
+        "Name": "Tunisia",
+        "ISO2": "TN",
+        "ISO3": "TUN"
+    },
+    {
+        "Name": "Turkey",
+        "ISO2": "TR",
+        "ISO3": "TUR"
+    },
+    {
+        "Name": "Tuvalu",
+        "ISO2": "TV",
+        "ISO3": "TUV"
+    },
+    {
+        "Name": "US",
+        "ISO2": "US",
+        "ISO3": "USA"
+    },
+    {
+        "Name": "Uganda",
+        "ISO2": "UG",
+        "ISO3": "UGA"
+    },
+    {
+        "Name": "Ukraine",
+        "ISO2": "UA",
+        "ISO3": "UKR"
+    },
+    {
+        "Name": "United Arab Emirates",
+        "ISO2": "AE",
+        "ISO3": "ARE"
+    },
+    {
+        "Name": "United Kingdom",
+        "ISO2": "GB",
+        "ISO3": "GBR"
+    },
+    {
+        "Name": "Uruguay",
+        "ISO2": "UY",
+        "ISO3": "URY"
+    },
+    {
+        "Name": "Uzbekistan",
+        "ISO2": "UZ",
+        "ISO3": "UZB"
+    },
+    {
+        "Name": "Vanuatu",
+        "ISO2": "VU",
+        "ISO3": "VUT"
+    },
+    {
+        "Name": "Venezuela",
+        "ISO2": "VE",
+        "ISO3": "VEN"
+    },
+    {
+        "Name": "Vietnam",
+        "ISO2": "VN",
+        "ISO3": "VNM"
+    },
+    {
+        "Name": "West Bank and Gaza"
+    },
+    {
+        "Name": "Winter Olympics 2022"
+    },
+    {
+        "Name": "Yemen",
+        "ISO2": "YE",
+        "ISO3": "YEM"
+    },
+    {
+        "Name": "Zambia",
+        "ISO2": "ZM",
+        "ISO3": "ZMB"
+    },
+    {
+        "Name": "Zimbabwe",
+        "ISO2": "ZW",
+        "ISO3": "ZWE"
+    }
+]

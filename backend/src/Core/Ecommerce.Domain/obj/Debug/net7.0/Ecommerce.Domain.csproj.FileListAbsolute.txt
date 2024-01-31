@@ -1,0 +1,12 @@
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll
+D:\projects\net\amazon_clone\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache

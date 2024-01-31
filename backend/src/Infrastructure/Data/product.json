@@ -1,0 +1,57 @@
+[
+    {
+        "Name" : "IPhone",
+        "Price": 999.99,
+        "Description": "El iPhone dispone de cámara de fotos y un reproductor de música (equivalente al del iPod), además de software para enviar y recibir mensajes de texto y de voz",
+        "Rating": 5,
+        "Buyer":"apple",
+        "Stock": 1000,
+        "CategoryId": 1
+    },
+    {
+        "Name" : "HP EliteBook Dragonfly G3",
+        "Price": 4500.99,
+        "Description": "El HP EliteBook Dragonfly G3 es, como su propio Name indica, como una libélula: aerodinámico, ultraligero, resistente y tecnológicamente pensado para la productividad",
+        "Rating": 5,
+        "Buyer":"HP",
+        "Stock": 500,
+        "CategoryId": 1
+    },
+    {
+        "Name" : "Gigabyte Aorus G5",
+        "Price": 8900.99,
+        "Description": "Gigabyte Aorus G5 KC-5ES1130SD es un potente equipo de gama media con pantalla LED IPS de 15 pulgadas y resolución Full HD, con 144 Hz de tasa de refresco",
+        "Rating": 5,
+        "Buyer":"Acer",
+        "Stock": 500,
+        "CategoryId": 1
+    },
+    {
+        "Name" : "Acer TravelMate",
+        "Price": 2900.99,
+        "Description": "Este Acer TravelMate P2 TMP214-53 es un equipo para productividad y uso multimedia, con una pantalla de 14 pulgadas Full HD, aunque no es especialmente ligero",
+        "Rating": 5,
+        "Buyer":"Acer",
+        "Stock": 500,
+        "CategoryId": 1
+    },
+    {
+        "Name" : "Tv X14313",
+        "Price": 1700.99,
+        "Description": "Medion X14313 es una smart TV modesta en prestaciones, de la gama de entrada, aunque con una diagonal de 43 pulgadas y resolución 4K sobre un panel LED LCD a 60 Hz",
+        "Rating": 5,
+        "Buyer":"Sony",
+        "Stock": 500,
+        "CategoryId": 1
+    },
+    {
+        "Name" : "LG Oled Flex",
+        "Price": 5000.99,
+        "Description": "El LG OLED Flex es una televisión inteligente de 42 pulgadas, con resolución 4K, tasa de refresco a 120 Hz y tecnología OLED. El panel llega recubierto de un recubrimiento antirreflectante bastante eficaz, compatibilidad con las tecnologías G-Sync de NVIDIA y Freesync de AMD",
+        "Rating": 5,
+        "Buyer":"LG",
+        "Stock": 500,
+        "CategoryId": 1
+    }
+
+]
